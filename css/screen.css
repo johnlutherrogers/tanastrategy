@@ -41,7 +41,7 @@ ul.nav.navbar-nav li a {
     padding: 10px 5px;
 }
 .title {
-    margin-top: 40px;
+    margin: 40px 0 0 20px;
     font-family: Copperplate, "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 @media screen and (max-width: 970px) {
